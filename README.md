@@ -15,6 +15,9 @@ git remote add upstream https://github.com/MQCOMP257/practicals-2018.git
 then each time you want to get new changes:
 
 ```
-git pull upstream master
+git pull --rebase upstream master
 ```
 
+Note that the `--rebase` option is not something you would normally use with `git pull`. It is useful 
+in this special case when you are pulling changes from an upstream repository and you've made your
+own commits locally. 
