@@ -1,0 +1,15 @@
+Outlook,Humidity,Wind,Play
+Sunny,High,Weak,No
+Sunny,High,Strong,No
+Overcast,High,Weak,Yes
+Rain,High,Weak,Yes
+Rain,Normal,Weak,Yes
+Rain,Normal,Strong,No
+Overcast,Normal,Strong,Yes
+Sunny,High,Weak,No
+Sunny,Normal,Weak,Yes
+Rain,Normal,Weak,Yes
+Sunny,Normal,Strong,Yes
+Overcast,High,Strong,Yes
+Overcast,Normal,Weak,Yes
+Rain,High,Strong,No
